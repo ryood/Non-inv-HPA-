@@ -14251,11 +14251,11 @@ DIN A4, landscape with location and doc. field</description>
 <part name="R6" library="rcl" deviceset="R-EU_" device="0207/7" value="47k"/>
 <part name="SUPPLY10" library="supply2" deviceset="GND" device=""/>
 <part name="JP1" library="pinhead" deviceset="PINHD-1X2" device="" value="PWR"/>
-<part name="R11" library="rcl" deviceset="R-EU_" device="0207/7" value="1k"/>
+<part name="R11" library="rcl" deviceset="R-EU_" device="0207/7" value="4.7k"/>
 <part name="LED1" library="led" deviceset="LED" device="3MM" value="Blue"/>
 <part name="IC2" library="tle2426" deviceset="TLE2426*L" device="P" technology="C"/>
-<part name="C3" library="rcl" deviceset="CPOL-EU" device="E5-6" value="100u"/>
-<part name="C4" library="rcl" deviceset="CPOL-EU" device="E5-6" value="100u"/>
+<part name="C3" library="rcl" deviceset="CPOL-EU" device="TT5D6L" value="100u"/>
+<part name="C4" library="rcl" deviceset="CPOL-EU" device="TT5D6L" value="100u"/>
 <part name="C5" library="rcl" deviceset="C-EU" device="050-024X044" value="0.1u"/>
 <part name="C6" library="rcl" deviceset="C-EU" device="050-024X044" value="0.1u"/>
 <part name="SUPPLY21" library="supply2" deviceset="VEE" device=""/>
@@ -14265,8 +14265,8 @@ DIN A4, landscape with location and doc. field</description>
 <part name="JP2" library="pinhead" deviceset="PINHD-1X3" device="" value="INPUT"/>
 <part name="JP3" library="pinhead" deviceset="PINHD-1X3" device="" value="OUTPUT1"/>
 <part name="JP4" library="pinhead" deviceset="PINHD-1X3" device="" value="OUTPUT2"/>
-<part name="R7" library="rcl" deviceset="R-EU_" device="0207/7"/>
-<part name="R8" library="rcl" deviceset="R-EU_" device="0207/7"/>
+<part name="R7" library="rcl" deviceset="R-EU_" device="0207/7" value="22"/>
+<part name="R8" library="rcl" deviceset="R-EU_" device="0207/7" value="22"/>
 </parts>
 <sheets>
 <sheet>
