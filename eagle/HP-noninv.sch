@@ -14241,13 +14241,13 @@ DIN A4, landscape with location and doc. field</description>
 <part name="SUPPLY4" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY5" library="supply2" deviceset="GND" device=""/>
 <part name="IC1" library="burr-brown" deviceset="OPA2134" device="P" value="OPA2134"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="0207/7" value="22k"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="0207/7" value="12k"/>
 <part name="R3" library="rcl" deviceset="R-EU_" device="0207/7" value="47k"/>
 <part name="SUPPLY6" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY7" library="supply2" deviceset="VCC" device=""/>
 <part name="SUPPLY8" library="supply2" deviceset="VEE" device=""/>
 <part name="SUPPLY9" library="supply2" deviceset="GND" device=""/>
-<part name="R5" library="rcl" deviceset="R-EU_" device="0207/7" value="22k"/>
+<part name="R5" library="rcl" deviceset="R-EU_" device="0207/7" value="12k"/>
 <part name="R6" library="rcl" deviceset="R-EU_" device="0207/7" value="47k"/>
 <part name="SUPPLY10" library="supply2" deviceset="GND" device=""/>
 <part name="JP1" library="pinhead" deviceset="PINHD-1X2" device="" value="PWR"/>
@@ -14256,7 +14256,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="IC2" library="tle2426" deviceset="TLE2426*L" device="P" technology="C"/>
 <part name="C3" library="rcl" deviceset="CPOL-EU" device="TT5D6L" value="100u"/>
 <part name="C4" library="rcl" deviceset="CPOL-EU" device="TT5D6L" value="100u"/>
-<part name="C5" library="rcl" deviceset="C-EU" device="050-024X044" value="0.1u"/>
+<part name="C5" library="rcl" deviceset="C-EU" device="025-024X044" value="0.1u"/>
 <part name="C6" library="rcl" deviceset="C-EU" device="050-024X044" value="0.1u"/>
 <part name="SUPPLY21" library="supply2" deviceset="VEE" device=""/>
 <part name="SUPPLY16" library="supply2" deviceset="VCC" device=""/>
